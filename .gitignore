@@ -1,3 +1,3 @@
 myblog/.idea/
 *.sqlite3
-myblog/media/avatar/
+myblog/media/avatar/*
